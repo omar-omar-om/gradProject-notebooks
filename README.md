@@ -1,4 +1,3 @@
-# gradProject-notebooks
 # 🛡️ Secure Insights — Machine Learning for Real-Time Malware Detection
 
 This repository contains all preprocessing, encoding strategies, and model training experiments for **Secure Insights**, a real-time malware detection system using the Microsoft Malware Prediction dataset and machine learning techniques.
